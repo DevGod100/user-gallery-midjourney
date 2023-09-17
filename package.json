@@ -6,7 +6,8 @@
     "dev": "next dev",
     "build": "next build",
     "start": "next start",
-    "lint": "next lint"
+    "lint": "next lint",
+    "pup":  "node ./lib/actions/pedro-tech.js" 
   },
   "dependencies": {
     "autoprefixer": "10.4.15",
